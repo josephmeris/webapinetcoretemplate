@@ -1,0 +1,17 @@
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.csprojAssemblyReference.cache
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.csproj.CoreCompileInputs.cache
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.RazorAssemblyInfo.cache
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.RazorAssemblyInfo.cs
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.AssemblyInfoInputs.cache
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.AssemblyInfo.cs
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.RazorTargetAssemblyInfo.cache
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\webapinetcoretemplate.deps.json
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\webapinetcoretemplate.runtimeconfig.json
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\webapinetcoretemplate.runtimeconfig.dev.json
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\webapinetcoretemplate.dll
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\webapinetcoretemplate.pdb
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.csproj.CopyComplete
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.dll
+C:\source\webapinetcoretemplate\webapinetcoretemplate\webapinetcoretemplate\obj\Debug\netcoreapp2.1\webapinetcoretemplate.pdb
